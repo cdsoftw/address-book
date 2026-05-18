@@ -3,7 +3,7 @@
 /*
 =======================================================================================
  Name        : DapC_00_P3_main.cpp
- Author      : Cole Dapprich
+ Author      : cdsoftw
  Version     : 2.0
  Copyright   : 2015
  Description : This .cpp file prints the menu, reads in commands, and calls the func-

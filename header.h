@@ -1,7 +1,7 @@
 /*
 =======================================================================================
  Name        : P3_header.h
- Author      : Cole Dapprich
+ Author      : cdsoftw
  Version     : 2.0
  Copyright   : 2015
  Description : This header file includes the necessary directories and function proto-
